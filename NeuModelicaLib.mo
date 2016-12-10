@@ -15,6 +15,6 @@ end when;
 end IF;
   end SpikingModels;
 
-  model ComplexModel
-  end ComplexModel;
+  package ComplexModels
+  end ComplexModels;
 end NeuModelicaLib;
